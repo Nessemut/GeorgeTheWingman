@@ -1,0 +1,41 @@
+body {
+    font-family: "Comic Sans MS", serif;
+    background-color: #ffe1fc;
+}
+
+img {
+    display: inline-block;
+    max-width: 80%;
+}
+
+.heart {
+    display: inline;
+    width: 5%;
+    height: 10%;
+}
+
+#title {
+    display: block;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    display: inline-block;
+}
+
+#chiefs-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+table {
+    border: 2px dotted red;
+}
+
+td {
+    border: 1px dotted red;
+}
